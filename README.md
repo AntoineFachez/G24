@@ -46,40 +46,256 @@ The G-24 membership is composed of developing countries drawn from three distinc
 
 Membership is technically open to any member of the larger G-77, allowing for potential expansion, although the core group has demonstrated considerable stability over time.<sup>2</sup> The regional balance is a constitutive element of the group's structure, ensuring representation across the developing world.
 
-**Table 1: G24 Member States and Regional Groupings**
+**JSON: G24 Member States and Regional Groupings**
 (Based on G24 Website <sup>14</sup> and JSON Data)
+```json
+[
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Algeria",
+    "ISO_A3": "DZA",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Democratic Republic of Congo",
+    "ISO_A3": "COD",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Côte d'Ivoire",
+    "ISO_A3": "CIV",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Egypt",
+    "ISO_A3": "EGY",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Ethiopia",
+    "ISO_A3": "ETH",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Gabon",
+    "ISO_A3": "GAB",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Ghana",
+    "ISO_A3": "GHA",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Kenya",
+    "ISO_A3": "KEN",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Morocco",
+    "ISO_A3": "MAR",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Nigeria",
+    "ISO_A3": "NGA",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "South Africa",
+    "ISO_A3": "ZAF",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region I: Africa"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "India",
+    "ISO_A3": "IND",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Iran (Islamic Republic of)",
+    "ISO_A3": "IRN",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Lebanon",
+    "ISO_A3": "LBN",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Pakistan",
+    "ISO_A3": "PAK",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Philippines",
+    "ISO_A3": "PHL",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Sri Lanka",
+    "ISO_A3": "LKA",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Syrian Arab Republic",
+    "ISO_A3": "SYR",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region II: Asia"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Argentina",
+    "ISO_A3": "ARG",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Brazil",
+    "ISO_A3": "BRA",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Colombia",
+    "ISO_A3": "COL",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Ecuador",
+    "ISO_A3": "ECU",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Guatemala",
+    "ISO_A3": "GTM",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Mexico",
+    "ISO_A3": "MEX",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Peru",
+    "ISO_A3": "PER",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Trinidad and Tobago",
+    "ISO_A3": "TTO",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  },
+  {
+    "IGO": "G24",
+    "COUNTRY_EN": "Venezuela (Bolivarian Republic of)",
+    "ISO_A3": "VEN",
+    "status": "Member State",
+    "joinDate": null,
+    "leftDate": null,
+    "membershipNotes": "Region III: Latin America & Caribbean"
+  }
+]
 
-| Country Name (English)          | ISO A3 Code | Region                            |
-| :------------------------------ | :---------- | :-------------------------------- |
-| Algeria                         | DZA         | Region I: Africa                  |
-| Argentina                       | ARG         | Region III: Latin America & Caribbean |
-| Brazil                          | BRA         | Region III: Latin America & Caribbean |
-| Colombia                        | COL         | Region III: Latin America & Caribbean |
-| Congo, Democratic Republic of   | COD         | Region I: Africa                  |
-| Côte d'Ivoire                   | CIV         | Region I: Africa                  |
-| Ecuador                         | ECU         | Region III: Latin America & Caribbean |
-| Egypt                           | EGY         | Region I: Africa                  |
-| Ethiopia                        | ETH         | Region I: Africa                  |
-| Gabon                           | GAB         | Region I: Africa                  |
-| Ghana                           | GHA         | Region I: Africa                  |
-| Guatemala                       | GTM         | Region III: Latin America & Caribbean |
-| Haiti                           | HTI         | Region III: Latin America & Caribbean |
-| India                           | IND         | Region II: Asia                   |
-| Iran (Islamic Republic of)      | IRN         | Region II: Asia                   |
-| Kenya                           | KEN         | Region I: Africa                  |
-| Lebanon                         | LBN         | Region II: Asia                   |
-| Mexico                          | MEX         | Region III: Latin America & Caribbean |
-| Morocco                         | MAR         | Region I: Africa                  |
-| Nigeria                         | NGA         | Region I: Africa                  |
-| Pakistan                        | PAK         | Region II: Asia                   |
-| Peru                            | PER         | Region III: Latin America & Caribbean |
-| Philippines                     | PHL         | Region II: Asia                   |
-| South Africa                    | ZAF         | Region I: Africa                  |
-| Sri Lanka                       | LKA         | Region II: Asia                   |
-| Syrian Arab Republic             | SYR         | Region II: Asia                   |
-| Trinidad and Tobago             | TTO         | Region III: Latin America & Caribbean |
-| Venezuela (Bolivarian Republic of) | VEN         | Region III: Latin America & Caribbean |
-
+```
 Note: Haiti was included based on multiple sources <sup>2</sup> confirming its membership, despite its absence in the initial JSON data.
 
 ### C. Observers and Special Invitees
